@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+padding: 1.5rem;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(240, 223, 223);
+}
+
+.home__inicio {
+    padding: 2rem;
+    color: rgb(58, 49, 49);
+    font-size: small;
+}
+.nombre__whiskeria{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: solid;
+    color: rgb(149, 15, 15);
+    font-size: x-large;
+}
+
+.nombre__whisky{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: solid;
+    color: rgb(149, 15, 15);
+    font-size: large;
+}

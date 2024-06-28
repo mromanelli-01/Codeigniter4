@@ -1,0 +1,100 @@
+CRITICAL - 2024-06-18 23:14:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:11 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:12 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:13 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:13 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:13 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:15:37 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:16:34 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:17:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-18 23:25:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "codeigniter4-framework-v4.5.2-0-g163f111 (1)"
+[Method: GET, Route: New%20folder/codeigniter4-framework-v4.5.2-0-g163f111%20%281%29/codeigniter4-framework-163f111/public/]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('New folder/codeigniter4-framework-v4.5.2-0-g163f111 (1)/codeigniter4-framework-163f111/public/')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
